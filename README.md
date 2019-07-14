@@ -1,4 +1,4 @@
 Sample Django App
 ------
 
-A basic Todo app to practice using Python and Django.
+A basic 'To Do' app to practice using Python and Django. Can add and delete 'to do' items.
