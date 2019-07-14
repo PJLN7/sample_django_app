@@ -20,7 +20,6 @@ from todo.views import todoView, addTodo, deleteTodo
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url('sayHello/', myView),
     url('todoView/', todoView),
     url(r'^deleteTodo/(\d{1,2})/', deleteTodo),
     url('addTodo/', addTodo),

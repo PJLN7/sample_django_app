@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43969150-89ac-49f4-9b42-a43a723b5b1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/sample_django_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_django_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/templates/todo.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/todo/templates/todo.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="335">
@@ -49,7 +48,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="414">
@@ -137,6 +136,11 @@
               <item name="sample_django_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="sample_django_app" type="462c0819:PsiDirectoryNode" />
               <item name="sample_django_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample_django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sample_django_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,13 +232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample_django_app/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-872" />
@@ -250,16 +247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample_django_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#651#683#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo/templates/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -267,6 +254,23 @@
           <folding>
             <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_django_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#651#683#0" expanded="true" />
           </folding>
         </state>
       </provider>
